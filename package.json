@@ -4,7 +4,7 @@
   "description": "Intersection observer support for google adcence and yandex ads",
   "license": "MIT",
   "devDependencies": {
-    "grunt": "^1.0.4",
+    "grunt": "^1.5.2",
     "grunt-contrib-uglify": "^4.0.1",
     "grunt-contrib-watch": "^1.1.0"
   },
